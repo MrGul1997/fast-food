@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+<title>Project 6</title>
+
+</head>
+<body>
+<div class="container">
+<div class="nav-bar">
+<h1>Gutentag</h1>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#products">Products</a></li>
+<li><a href="#portfolio">Portfolio</a></li>
+<li><a href="#">Blog</a></li>
+<li><a href="#">Contact US</a></li>
+</ul>
+<div class="clear"></div>
+</div>
+<div class="foodimg"></div>
+<div class="food-order">
+<h1>fast food & Juice</h1>
+<p>
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety name fuquat Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety vel  Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valet eassey Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety qus Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety nihfi Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety Vviat.
+
+	
+</p>
+<button onclick="alert('+923076184258')">Order Now</button>
+</div>
+<div id="products" class="products">
+<h1>Our Products</h1>
+<div class="c1"></div>
+<div class="c1 c2"></div>
+<div class="c1"></div>
+<div class="c1 c2"></div>
+<div class="c1"></div>
+<div class="c1 c2"></div>
+<div class="c1"></div>
+<div class="c1 c2"></div>	
+</div>
+<div id="portfolio" class="portfolio">
+<h1>Portfolio</h1>
+
+<div class="ch1">
+<h1>Anthony Bourdain</h1>
+<p>Anthony Bourdain is an American chef as well as <br />
+ an executive chief cook of Brasserie Les Halles in<br> 
+ New York.Anthony has got his very own <br />
+ technique ofcelebratingfood,and he enjoys<br />
+ testing them.</p>
+<div class="img1"></div>
+
+</div>
+
+<div class="ch2">
+<h1>Paul Bocuse</h1>
+<p>Paul Bocuse is named the “Father of Culinary Art” <br />
+ in France. He’d been a cooking icon for several<br />
+ years.Bocuse an ambassador of contemporary<br />  
+ French cuisine and he was one of the best <br />
+ chefs to be affiliated with Nouvelle Cuisine.
+</p>
+<div class="img2"></div>
+</div>
+
+<div class="ch3">
+<h1>Rachael Ray</h1>
+<p>Rachael Domenica Ray is an American television<br /> 
+personality, businesswoman, celebrity chef, and<br /> 
+author. She hosts the syndicated daily talk and<br /> 
+lifestyle program Rachael Ray, and three Food<br />
+ Network series.</p>
+<div class="img3"></div>
+</div>
+
+<div class="ch4">
+<h1>Charlie Trotter</h1>
+<p>Charlie Trotter, an American chef from Chicago,<br />
+ is the founding father of the popular cooking<br /> 
+ program, “The MasterChef”. He’s a restaurateur,<br /> 
+ a tv star as well as an author. In spite of <br />
+ getting a college degree in Political Science,<br /> 
+ he discovered the love for food</p>
+<div class="img4"></div>
+</div>
+
+</div>
+<div class="blog">
+<h1>Blog</h1>
+<p>Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety name fuquat Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety vel  Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valet eassey Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety qus Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety nihfi Vviat
+Lorem ipsum dolor sit amet consectitu adipsigcing elit.valety Vviat.</p>
+</div>
+
+
+
+
+</div>
+</body>
+</html>

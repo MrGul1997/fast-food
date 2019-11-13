@@ -1,0 +1,3 @@
+transform:rotate(-20deg);
+transition-duration:2s;
+transform:scale(1.2);
